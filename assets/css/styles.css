@@ -62,6 +62,10 @@ body {
   transition: .3s; /* For animation dark mode */
 }
 
+.preload {
+  overflow: hidden;
+}
+
 h1, h2, h3 {
   /* headers  */
   color: var(--title-color);
