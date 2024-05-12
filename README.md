@@ -1,3 +1,3 @@
-# Responsive Mini Portfolio
+# responsive mini portfolio
 
 
