@@ -179,6 +179,16 @@ img {
   justify-content: center;
 }
 
+.profile__git {
+  grid-template-columns: repeat(1, max-content);
+  justify-content: left;
+}
+
+.my-profile {
+  grid-template-columns: repeat(1, max-content);
+  justify-content: center;
+}
+
 .profile__info-group {
   text-align: center;
 }
@@ -282,10 +292,16 @@ img {
 
 }
 
-/* .projects__img {
+.projects__img {
   width: 100%;
   height: 100%;
-} */
+}
+
+.projects__vid {
+  width: 100%;
+  height: 100%;
+  outline: none;
+}
 
 .projects__card img{
   width: 100%;
